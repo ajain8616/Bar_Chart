@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.ezatpanah.williamchart_youtube'
+    namespace 'com.example.barchart'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.ezatpanah.williamchart_youtube"
+        applicationId "com.example.barchart"
         minSdk 24
         targetSdk 33
         versionCode 1
